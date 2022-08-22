@@ -2,3 +2,4 @@
 *.xlsx*
 !requirements.txt
 !example.txt
+venv
